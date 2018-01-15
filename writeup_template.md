@@ -15,7 +15,7 @@ The goals of this project , according to me , involved not just a task of buildi
 The pipeline I have implemented follows the following scheme:
 
 #### PIPELINE SCHEME:
-"""
+
 1 - Convert the image to grayscale.
 2 - Apply Canny.
 3 - Apply Gaussian smoothing.
@@ -34,7 +34,12 @@ The really interesting part is the task of actually extrapolating lines obtained
 
 The result obtained was as follows:
 
-![alt text]()
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-solidWhiteCurve.jpg)
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-solidWhiteRight.jpg)
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-solidYellowCurve.jpg)
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-solidYellowCurve2.jpg)
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-solidYellowLeft.jpg)
+![alt text](https://github.com/arpitsri3/carNDarpit/blob/master/test_images_output/output-whiteCarLaneSwitch.jpg)
 
 
 
